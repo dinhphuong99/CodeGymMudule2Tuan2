@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dbc1412-3283-470c-9bff-ddf8f063647c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/Test/TriangleClassifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/classification_of_triangles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/src/TriangleClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/FizzBuzzTranslateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fizzbuzz_result_calculation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzzTranslate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_next_day/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_next_day/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_next_day/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_next_day/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_next_day/Test/NextDayCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_next_day/src/NextDayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_next_day/the_next_day.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/absolute_value/absolute_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/simple_calculator/SimpleCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../the_next_day/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CleanCodeAndRefactoring/src/exercise/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CleanCodeAndRefactoring/src/exercise/TennisGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CleanCodeAndRefactoring/src/exercise/TennisGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CleanCodeAndRefactoring/src/exercise/TennisGameTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wIl2kvvMHwGVuvyGTMN9jaQH86" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FizzBuzzTranslateTest.traslate3">
+    <configuration name="FizzBuzzTranslateTest.traslate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz_result_calculation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTranslateTest" />
+      <option name="METHOD_NAME" value="traslate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTranslateTest.traslate1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz_result_calculation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTranslateTest" />
+      <option name="METHOD_NAME" value="traslate1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTranslateTest.traslate2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz_result_calculation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTranslateTest" />
+      <option name="METHOD_NAME" value="traslate2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTranslateTest.traslate3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz_result_calculation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTranslateTest" />
+      <option name="METHOD_NAME" value="traslate3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FizzBuzzTranslateTest.traslate3" />
+        <item itemvalue="JUnit.FizzBuzzTranslateTest.traslate1" />
+        <item itemvalue="JUnit.FizzBuzzTranslateTest.traslate2" />
+        <item itemvalue="JUnit.FizzBuzzTranslateTest.traslate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dbc1412-3283-470c-9bff-ddf8f063647c" name="Default Changelist" comment="" />
+      <created>1628153781361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628153781361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
