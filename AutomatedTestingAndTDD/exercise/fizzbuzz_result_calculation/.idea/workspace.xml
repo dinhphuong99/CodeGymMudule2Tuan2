@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dbc1412-3283-470c-9bff-ddf8f063647c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/Test/TriangleClassifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/classification_of_triangles.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classification_of_triangles/src/TriangleClassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/FizzBuzzTranslateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fizzbuzz_result_calculation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FizzBuzzTranslate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../the_next_day/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../the_next_day/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../the_next_day/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../the_next_day/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../the_next_day/Test/NextDayCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../the_next_day/src/NextDayCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../the_next_day/the_next_day.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../practice/absolute_value/absolute_value.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../practice/simple_calculator/SimpleCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../the_next_day/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../CleanCodeAndRefactoring/src/exercise/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CleanCodeAndRefactoring/src/exercise/TennisGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../CleanCodeAndRefactoring/src/exercise/TennisGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CleanCodeAndRefactoring/src/exercise/TennisGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../is_prime/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../is_prime/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../is_prime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../is_prime/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../is_prime/Test/PrimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../is_prime/is_prime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../is_prime/src/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,5 +136,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
