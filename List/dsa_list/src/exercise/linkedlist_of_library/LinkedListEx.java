@@ -1,14 +1,14 @@
 package exercise.linkedlist_of_library;
 
-public class LinkedList {
+public class LinkedListEx {
     private Node head;
     private int numNodes;
 
-    public LinkedList(Object data) {
+    public LinkedListEx(Object data) {
         head = new Node(data);
     }
 
-    public LinkedList() {
+    public LinkedListEx() {
     }
 
     public class Node {
@@ -93,7 +93,9 @@ public class LinkedList {
     public void remove(int index) {
         if (head == null)
             System.out.println("List null");
-        else {
+        else if (index == 0){
+            head = head.next;
+        } {
             Node temp = head;
             for (int i = 0; i < index - 1 && temp.next != null; i++) {
                 temp = temp.next;
@@ -153,8 +155,8 @@ public class LinkedList {
         return head;
     }
 
-    public LinkedList clone() {
-        LinkedList clone = new LinkedList();
+    public LinkedListEx clone() {
+        LinkedListEx clone = new LinkedListEx();
         Node temp = this.head;
         for (int i = 0; temp != null; i++) {
             clone.add(i,temp.getData());
