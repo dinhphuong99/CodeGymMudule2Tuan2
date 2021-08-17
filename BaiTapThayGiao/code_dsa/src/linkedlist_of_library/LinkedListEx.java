@@ -114,11 +114,15 @@ public class LinkedListEx {
                 return true;
             }
             temp = temp.next;
+            numNodes--;
         }
 
         return false;
     }
 
+    public int getNumNodes(){
+        return numNodes;
+    }
     public int size(){
         return this.numNodes + 1;
     }
@@ -146,6 +150,7 @@ public class LinkedListEx {
 
     public void clear(){
         this.head = null;
+        numNodes = -1;
     }
 
     public Node getLast() {

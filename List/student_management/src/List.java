@@ -12,7 +12,7 @@ public class List {
         Scanner scanner = new Scanner(System.in);
         int choice = -1;
 
-        while (choice != 0) {
+        while (true) {
             System.out.println("Menu");
             System.out.println("1. View the list");
             System.out.println("2. Add students");
@@ -39,21 +39,22 @@ public class List {
                     Student student = new Student();
 
                     int IDNewAdd = -1;
-                    boolean checkNull = false;
-                    for (int i = 0; i <= listSt.size(); i++) {
-                        for (int j = 0; j <= listSt.size(); j++) {
-                            if (listSt.size() == 0){
-                                IDNewAdd = i;
-                                checkNull = true;
-                                break;
-                            }
-                            if (i != listSt.get(j).getID()){
-                                IDNewAdd = i;
-                                checkNull = false;
+
+                    if (listSt.size() == 0)
+                        IDNewAdd = 0;
+                    else {
+                        for (int i = 0; IDNewAdd == -1; i++) {
+                            for (int j = 0; j < listSt.size(); j++) {
+                                if (i != listSt.get(j).getID()){
+                                    IDNewAdd = i;
+                                }
+
+                                if (i == listSt.get(j).getID()){
+                                    IDNewAdd = -1;
+                                    break;
+                                }
                             }
                         }
-                        if (checkNull)
-                            break;
                     }
 
                     System.out.println(IDNewAdd);
@@ -74,7 +75,7 @@ public class List {
                     for (int i = 0; i < listSt.size(); i++) {
                         if (listSt.get(i).getID() == checkIdInfo) {
                             int choiceEditInfo = -1;
-                            while (choiceEditInfo != 0) {
+                            while (true) {
                                 System.out.println("1. Edit Name");
                                 System.out.println("0. Exit");
                                 System.out.println("Old ID: " + listSt.get(i).getID() + "\n"
@@ -127,7 +128,7 @@ public class List {
                     for (int i = 0; i < listSt.size(); i++) {
                         if (listSt.get(i).getID() == addID) {
                             int choiceAddSc = -1;
-                            while (choiceAddSc != 0) {
+                            while (true) {
                                 System.out.println("1. Add first time score");
                                 System.out.println("2. Add second time score");
                                 System.out.println("3. Add third time score");
@@ -178,7 +179,7 @@ public class List {
                     for (int i = 0; i < listSt.size(); i++) {
                         if (listSt.get(i).getID() == checkID) {
                             int choiceEditSc = -1;
-                            while (choiceEditSc != 0) {
+                            while (true) {
                                 System.out.println("1. Edit first time score");
                                 System.out.println("2. Edit second time score");
                                 System.out.println("3. Edit third time score");
